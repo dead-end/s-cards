@@ -1,1 +1,4 @@
-.my-class.svelte-12ttky5{display:flex;justify-content:flex-start;align-items:top;margin:0rem 0rem var(--margin-y) 0rem}.label.svelte-12ttky5{width:20em}
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
